@@ -1,0 +1,10 @@
+
+google SDK download link:
+http://developer.android.com/sdk/index.html
+http://androidappdocs.appspot.com/sdk/index.html
+
+android SDK/NDK usage document:
+http://www.cnmsdn.com/html/201005/1274854872ID5102.html
+http://eshock.blogbus.com/logs/61459223.html
+How to use NDK
+http://abitno.me/a-simple-tutorial-to-android-ndk 
